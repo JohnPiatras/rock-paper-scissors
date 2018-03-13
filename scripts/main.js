@@ -83,7 +83,7 @@ function game() {
         } else if (result === "lose") {
             computerWins++;
         }
-        
+
         console.log("Round " + (round + 1));
         console.log("    " + buildResultString(result, playerSelection, computerSelection));
     }
