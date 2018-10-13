@@ -98,3 +98,4 @@ function showWinner(playerWinCount, computerWinCount) {
         console.log("It's a draw!");
     }
 }
+document.write("thanks for playing");
